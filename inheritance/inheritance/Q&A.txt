@@ -1,0 +1,3 @@
+﻿Abstraction (soyutlama), yazılımda günlük hayatı kodlara dökmek için yapılan, kodlama karmaşıklığını azaltan, bir katman oluşturmamıza, kodları güvenlikli bir şekilde yapmamıza yardımcı olan bir yapıdı.
+Abstract class bir base class olduğundan nesne türetilmez, sadece class tanımlanır fakat kalıtım kullanılabilir. Override kullanmamızın sebebi, abstract o metodun class bazında değiştirebilmesini sağlar. 
+Polimorfizim aynı isimdeki fonksiyonların ve metotların farklı parametreler ile kullanılmasını sağlar.
